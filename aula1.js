@@ -8,5 +8,3 @@
 // git pull
 // resolver conflitos
 // git push
-
---fiz caca
