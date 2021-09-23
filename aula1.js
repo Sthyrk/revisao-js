@@ -6,4 +6,5 @@
 // escreve alguma alteração
 // git commit
 // git pull
+// resolver conflitos
 // git push
